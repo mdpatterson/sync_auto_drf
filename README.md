@@ -1,5 +1,7 @@
 # sync_auto_drf
 
+  requires clickhouse to be running locally at present
+
   echo "Setup complete. To start the development server:"
   
   echo "1. Activate the virtual environment: source venv/bin/activate"
